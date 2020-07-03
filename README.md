@@ -6,4 +6,4 @@ Keijiro's Midijack is necessary, find it here and check out their other projects
 https://github.com/keijiro
 https://github.com/keijiro/MidiJack
 
-Coypright 2020, TheGoo#2765 & Echoframe, All rights reserved.
+Please do not redistribute.
